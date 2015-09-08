@@ -10,6 +10,7 @@
             <file>file:/mnt/data/EpamTraining/Project4/Restaurant/web/pages/order.jsp</file>
             <file>file:/mnt/data/EpamTraining/Project4/Restaurant/src/java/ua/epam/filters/SessionCheck.java</file>
             <file>file:/mnt/data/EpamTraining/Project4/Restaurant/src/java/ua/epam/commands/AuthCommand.java</file>
+            <file>file:/mnt/data/EpamTraining/Project4/Restaurant/web/css/style.css</file>
             <file>file:/mnt/data/EpamTraining/Project4/Restaurant/src/java/ua/epam/controllers/RestaurantServlet.java</file>
             <file>file:/mnt/data/EpamTraining/Project4/Restaurant/src/java/ua/epam/model/dao/PostgreCustomerDAO.java</file>
             <file>file:/mnt/data/EpamTraining/Project4/Restaurant/src/java/ua/epam/commands/MakeOrderCommand.java</file>
@@ -43,6 +44,7 @@
             <file>file:/mnt/data/EpamTraining/Project4/Restaurant/web/pages/registration.jsp</file>
             <file>file:/mnt/data/EpamTraining/Project4/Restaurant/src/java/ua/epam/model/dao/OrderDAO.java</file>
             <file>file:/mnt/data/EpamTraining/Project4/Restaurant/src/java/ua/epam/commands/LogOutCommand.java</file>
+            <file>file:/mnt/data/EpamTraining/Project4/Restaurant/web/pages/style.html</file>
             <file>file:/mnt/data/EpamTraining/Project4/Restaurant/web/WEB-INF/classes/text_en_US.properties</file>
         </group>
     </open-files>
